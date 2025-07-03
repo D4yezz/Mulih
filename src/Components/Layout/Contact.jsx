@@ -5,7 +5,7 @@ export default function Contact() {
     <>
       <div className="flex flex-col md:w-2/5 gap-4 font-poppins md:mb-0 mb-4">
         <img
-          src="/public/assets/logo_text.png"
+          src="/assets/logo_text.png"
           alt="Logo Text"
           className="w-24"
         />

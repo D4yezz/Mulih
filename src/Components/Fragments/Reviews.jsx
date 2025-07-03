@@ -16,7 +16,7 @@ export default function ReviewsAtas() {
         <Card className="border-none rounded-none w-fit h-fit md:ml-20 md:-mt-24 shadow-[0px_12px_25px_rgba(0,0,0,0.25)]">
           <CardHeader className="flex items-center justify-center flex-col">
             <img
-              src="../../../public/Assets/check_square.svg"
+              src="/assets/check_square.svg"
               alt=""
               className="md:w-6 w-4 md:mb-2"
             />
@@ -26,7 +26,7 @@ export default function ReviewsAtas() {
           </CardHeader>
           <CardContent className="flex items-center justify-center flex-col">
             <img
-              src="../../../public/Assets/grupStar.png"
+              src="/assets/grupStar.png"
               alt=""
               className="md:w-20 w-16 md:my-3 my-1"
             />

@@ -32,7 +32,7 @@ export default function RealEstate() {
           transition={{ duration: 0.5, ease: "easeOut" }}
           className="2 md:absolute relative lg:w-[48vw] md:w-[90vw] w-[100vw] z-10 md:block right-0 md:bottom-0 -bottom-10"
         >
-          <img className="object-cover" src="/public/assets/house.png" alt="Home" />
+          <img className="object-cover" src="/assets/house.png" alt="Home" />
         </motion.div>
     </>
   );
