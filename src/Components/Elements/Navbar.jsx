@@ -29,7 +29,7 @@ export default function Navbar() {
               href="#home"
             >
               <img
-                src="../../../public/Assets/logo_text.png"
+                src="/public/Assets/logo_text.png"
                 alt=""
                 className="w-24"
               />
