@@ -25,7 +25,7 @@ export default function Testimonial() {
             <button className="flex font-poppins text-mulih items-center md:justify-between justify-start md:mt-0 mt-4">
               Learn More
               <img
-                src="../../../public/Assets/arrow_right_circle.svg"
+                src="public/assets/arrow_right_circle.svg"
                 alt=""
                 className="w-6 ml-2 rounded-full shadow-[0px_0px_10px_0px] shadow-mulih"
               />

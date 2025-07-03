@@ -26,24 +26,16 @@ export function ListSocial() {
     <h3 className="font-medium text-black text-[1.1rem] font-poppins">Follow us on</h3>
       <div className="flex gap-4 mt-4">
         <div className="p-2 w-10 bg-white rounded-full">
-          <img src="../../../public/Assets/Instagram.png" alt="" />
+          <img src="public/assets/Instagram.png" alt="Instagram" />
         </div>
         <div className="px-2 py-3  w-10 bg-white rounded-full">
-          <img src="../../../public/Assets/youtube.png" alt="" />
+          <img src="public/assets/youtube.png" alt="Youtube" />
         </div>
         <div className="p-2 w-10 bg-white rounded-full">
-          <img src="../../../public/Assets/facebook.png" alt="" />
+          <img src="public/assets/facebook.png" alt="Facebook" />
         </div>
       </div>
       </div>
-    </>
-  );
-}
-
-export function SocialMedia() {
-  return (
-    <>
-      <div className="p-4"></div>
     </>
   );
 }

@@ -9,7 +9,7 @@ const testimonialCust = [
     id: 1,
     title: "It proved to be exactly the kind of home we wanted.",
     desc: "We wish to express our thanks for your hard work in finding us a temporary home, which proved to be exactly what we wanted.",
-    imgUser: "../../../public/Assets/user_1.png",
+    imgUser: "public/assets/user_1.png",
     name: "Jaydon Aminoff",
     job: "UX Designer",
   },
@@ -17,7 +17,7 @@ const testimonialCust = [
     id: 2,
     title: "Nobody knows Portland and the peninsula better than David.",
     desc: "My wife and I had a dream of downsizing from our house in Cape Elizabeth into a small condo closer to where we work and play in Portland.",
-    imgUser: "../../../public/Assets/user_2.png",
+    imgUser: "public/assets/user_2.png",
     name: "Alfredo Donin",
     job: "UI Designer",
   },
@@ -25,7 +25,7 @@ const testimonialCust = [
     id: 3,
     title: "He keeps his client’s best interests in sharp focus",
     desc: "After working with David to sell my home in 2013, I was convinced that he’s the only realtor I’ll ever need. Since then, I’ve bought two properties and sold one.",
-    imgUser: "../../../public/Assets/user_3.png",
+    imgUser: "public/assets/user_3.png",
     name: "Makenna Korsgaard",
     job: "UX Researcher",
   },
@@ -49,7 +49,7 @@ export default function CardCustomer() {
               <PingNotification />
               <CardHeader>
                 <img
-                  src="../../../public/Assets/double_quote.png"
+                  src="public/assets/double_quote.png"
                   alt=""
                   className="w-10 py-3 md:block hidden"
                 />

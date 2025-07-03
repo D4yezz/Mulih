@@ -14,7 +14,7 @@ export default function Recomendation() {
         </div>
         <button  className="flex font-poppins text-mulih items-center md:justify-between justify-end md:mt-0 mt-4">
           Learn More
-          <img src="../../../public/Assets/arrow_right_circle.svg" alt="baby"  className="w-6 ml-2 rounded-full shadow-[0px_0px_10px_0px] shadow-mulih"/>
+          <img src="public/assets/arrow_right_circle.svg" alt="baby"  className="w-6 ml-2 rounded-full shadow-[0px_0px_10px_0px] shadow-mulih"/>
         </button>
       </div>
     </>
