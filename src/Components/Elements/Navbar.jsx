@@ -29,8 +29,8 @@ export default function Navbar() {
               href="#home"
             >
               <img
-                src="/public/Assets/logo_text.png"
-                alt=""
+                src="public/assets/logo_text.png"
+                alt="logotext"
                 className="w-24"
               />
             </a>
