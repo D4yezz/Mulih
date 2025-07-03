@@ -1,3 +1,18 @@
+
+Mulih 🏡 – My Journey Learning React.js
+
+Mulih is a personal project I developed to deepen my understanding of React.js. It’s more than just a website — it’s a space where I practice writing clean components, applying modern design systems, and exploring animation with Framer Motion.
+
+I also integrated shadcn/ui to create sleek, accessible UI components with Tailwind CSS. This project represents my growth as a front-end developer, with hands-on experience in building real, responsive interfaces.
+
+Whether you're a fellow learner, recruiter, or just curious, feel free to explore the code and see how I bring ideas to life using React.
+
+💡 Built with curiosity, code, and a lot of caffeine.
+
+🛠️ Tech Stack: React.js • Tailwind CSS • Vite • Framer Motion • shadcn/ui
+
+⚙️ Status: Actively learning & improving!
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
