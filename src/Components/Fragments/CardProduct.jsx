@@ -22,7 +22,7 @@ import { motion } from "framer-motion";
 const isiCard = [
   {
     id: 1,
-    img: "url('/assets/perum_griya_asri.png')",
+    img: "url('/public/assets/perum_griya_asri.png')",
     title: "Perum Griya Asri",
     location: "Bogor, Jawa Barat",
     price: "$25,000",
@@ -30,7 +30,7 @@ const isiCard = [
   },
   {
     id: 2,
-    img: "url('/assets/perum_kencana_asri.png')",
+    img: "url('/public/assets/perum_kencana_asri.png')",
     title: "Perum Kencana Asri",
     location: "Malang, Jawa Timur",
     price: "$35,000",
@@ -38,7 +38,7 @@ const isiCard = [
   },
   {
     id: 3,
-    img: "url('/assets/luxury.jpg')",
+    img: "url('/public/assets/luxury.jpg')",
     title: "Perum Rakjel Elit",
     location: "Semarang, Jawa Tengah",
     price: "$22,000",
@@ -46,7 +46,7 @@ const isiCard = [
   },
   {
     id: 4,
-    img: "url('/assets/modern_cool.jpg')",
+    img: "url('/public/assets/modern_cool.jpg')",
     title: "Perum Modern Cool",
     location: "Jakarta Selatan, Jakarta",
     price: "$55,000",
@@ -54,7 +54,7 @@ const isiCard = [
   },
   {
     id: 5,
-    img: "url('/assets/old_house.jpg')",
+    img: "url('/public/assets/old_house.jpg')",
     title: "Perum Old Money",
     location: "Bandung, Jawa Barat",
     price: "$45,000",
@@ -62,7 +62,7 @@ const isiCard = [
   },
   {
     id: 6,
-    img: "url('/assets/simple_house.jpg')",
+    img: "url('/public/assets/simple_house.jpg')",
     title: "Perum Simple Miracle",
     location: "Denpasar, Bali",
     price: "$27,000",

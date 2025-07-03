@@ -6,37 +6,37 @@ import { motion } from "framer-motion";
 const kontenCard = [
   {
     id: 1,
-    img: "public/assets/Heart.svg",
+    img: "/public/assets/Heart.svg",
     title: "Comfortable",
     desc: "Enjoy lifestyle amenities designed to provide every homeowners modern comfort, a stone's throw away from schools, churches, and hospitals.",
   },
   {
     id: 2,
-    img: "public/assets/shield.svg",
+    img: "/public/assets/shield.svg",
     title: "Extra Security",
     desc: "You can connect with potential tenants without having to share your phone number. We also require all users to register to validate their legitimacy.",
   },
   {
     id: 3,
-    img: "public/assets/star.svg",
+    img: "/public/assets/star.svg",
     title: "Luxury",
     desc: "Find out how we provide the highest standard of professional property management to give you all the benefits of property.",
   },
   {
     id: 4,
-    img: "public/assets/ticket.svg",
+    img: "/public/assets/ticket.svg",
     title: "Best Price",
     desc: "Not sure what you should be charging for your property? Let us do the numbers for you—contact us today for a free rental appraisal on your home.",
   },
   {
     id: 5,
-    img: "public/assets/location.svg",
+    img: "/public/assets/location.svg",
     title: "Strategic Location",
     desc: "located in the city center close to the shopping center. Very good for areas surrounded by international education centers, start-up office centers.",
   },
   {
     id: 6,
-    img: "public/assets/graph.svg",
+    img: "/public/assets/graph.svg",
     title: "Efficient",
     desc: "Schedule visits to multiple properties at once in one day without having to call them one by one. Check everything and find the best properties for rent.",
   },
