@@ -1,5 +1,5 @@
 
-import Discover from "../Components/Layout/discover";
+import Discover from "../Components/Layout/Discover";
 
 export default function Property(){
     return(
